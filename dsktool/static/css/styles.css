@@ -1,4 +1,4 @@
-/* UTRGV STYLES */
+/* ==========UTRGV STYLES========== */
 .header {
     background: #646469;
     margin: auto;
@@ -13,7 +13,24 @@
     margin: auto;
 }
 
-/* Original CSS */
+/* ==========Links========== */
+a{
+  color:#DB350F;
+  text-decoration:none;
+  font-weight: 500;
+}
+a:active, a:hover
+{
+  outline: 0;
+  text-decoration:underline;
+ }
+a:focus{
+      outline: 1px dotted #c3c3c3;
+      text-decoration:underline;
+ }
+
+
+/* ==========Original CSS========== */
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;
