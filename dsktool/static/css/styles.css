@@ -16,8 +16,13 @@
     padding-right: 30px;
 }
 
-.sidebar {
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0 25px 15px;
+    list-style: none;
     background: #e7e7e5;
+    border-top: 10px solid #CF4411;
+    padding-top: 20px;
 }
 
 .main-content {
@@ -42,9 +47,10 @@ a:focus{
  }
 
 
-/* ==========Original CSS========== */
+/* ==========Original CSS==========
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;
     list-style: none;
 }
+ */
