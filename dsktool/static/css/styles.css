@@ -5,7 +5,6 @@
     border-bottom: 10px solid #CF4411;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-bottom: 20px;
 }
 
 .header-wrapper {
@@ -15,6 +14,15 @@
 
 .header-wrapper img {
     padding-right: 30px;
+}
+
+.sidebar {
+    background: #e7e7e5;
+}
+
+.main-content {
+    padding-top: 20px;
+    padding-left: 20px;
 }
 
 /* ==========Links========== */
