@@ -31,6 +31,10 @@
     padding-left: 20px;
 }
 
+.wrapper {
+    overflow: hidden;
+}
+
 /* ==========Links========== */
 a{
   color:#DB350F;
